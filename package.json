@@ -1,0 +1,13 @@
+{
+  "name": "google-takeout-to-geory",
+  "version": "1.0.0",
+  "main": "merge.js",
+  "author": "Daniel Simmons <dan@dans.im>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "simple-sha256": "^1.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
