@@ -5,9 +5,13 @@
   "author": "Daniel Simmons <dan@dans.im>",
   "license": "GPL-3.0",
   "dependencies": {
-    "@types/node": "^22.1.0",
+    "@nodelib/fs.walk": "^2.0.0",
+    "axios": "^1.7.3",
     "simple-sha256": "^1.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.2.0"
   }
 }
